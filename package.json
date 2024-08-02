@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@rest-hooks/core": "^5.2.1",
+    "formik": "^2.4.6",
+    "react-router-dom": "^6.26.0",
+    "yup": "^1.4.0"
+  }
+}
